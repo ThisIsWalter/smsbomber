@@ -1,0 +1,1 @@
+"In this code, we are using the website's API to perform an SMS bomber. For this purpose, you need to put the website's API inside the 'send_sms.php' file and place the desired phone number inside the input in 'index.html'.
